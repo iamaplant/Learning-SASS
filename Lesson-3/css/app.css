@@ -1,0 +1,21 @@
+/* PLUGINS */
+/* BASE STYLES */
+body {
+  background: pink;
+  color: white; }
+
+h1 {
+  font-family: Georgia, times, serif; }
+
+h2, h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px; }
+
+/* LAYOUTS */
+/* MODULES */
+.box {
+  height: 100px;
+  width: 100px;
+  background: yellow; }
+
+/*# sourceMappingURL=app.css.map */
