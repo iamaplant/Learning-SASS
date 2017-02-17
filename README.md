@@ -10,3 +10,6 @@ Folder Structure, Workflow & Best Practices for Scalable Websites.
 
 Lesson-3
 Creating a Clean & Scalable Stylesheet using Variables, Partials & Imports.
+
+Lesson-4
+Recycle code to save time using SASS Mixins.

@@ -1,0 +1,59 @@
+/* PLUGINS */
+/* BASE STYLES */
+body {
+  font-family: Helvetica;
+  font-size: 14px;
+  background-color: #c69; }
+
+/* LAYOUTS */
+.container {
+  width: 768px;
+  margin: 0 auto;
+  padding: 40px;
+  box-sizing: border-box;
+  background-color: #fff; }
+
+/* MODULES */
+.box {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  -webkit-border-radius: 100%;
+  -moz-border-raduis: 100%;
+  border-radius: 100%;
+  -webkit-box-shadow: 0 5px #555;
+  -moz-box-shadow: 0 5px #555;
+  box-shadow: 0 5px #555;
+  background: #036;
+  background: -webkit-linear-gradient(orangered, yellow);
+  background: -o-linear-gradient(orangered, yellow);
+  background: -moz-linear-gradient(orangered, yellow);
+  background: linear-gradient(orangered, yellow); }
+
+#box-2 {
+  -webkit-border-radius: 10px;
+  -moz-border-raduis: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 1px 20px #000;
+  -moz-box-shadow: 1px 20px #000;
+  box-shadow: 1px 20px #000;
+  background: #036;
+  background: -webkit-linear-gradient(#123, #888);
+  background: -o-linear-gradient(#123, #888);
+  background: -moz-linear-gradient(#123, #888);
+  background: linear-gradient(#123, #888); }
+
+#box-3 {
+  -webkit-border-radius: 5px;
+  -moz-border-raduis: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: #333;
+  -moz-box-shadow: #333;
+  box-shadow: #333;
+  background: #036;
+  background: -webkit-linear-gradient(blue, green);
+  background: -o-linear-gradient(blue, green);
+  background: -moz-linear-gradient(blue, green);
+  background: linear-gradient(blue, green); }
+
+/*# sourceMappingURL=app.css.map */
