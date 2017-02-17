@@ -1,0 +1,68 @@
+/* PLUGINS */
+/* BASE STYLES */
+body {
+  font-family: Helvetica;
+  font-size: 14px;
+  background-color: #c69; }
+
+/* LAYOUTS */
+.container {
+  width: 768px;
+  margin: 0 auto;
+  padding: 40px;
+  box-sizing: border-box;
+  background-color: #fff; }
+
+/* MODULES */
+.box {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  -webkit-box-shadow: 0 5px #555;
+  -moz-box-shadow: 0 5px #555;
+  box-shadow: 0 5px #555;
+  background: #036;
+  background: -webkit-linear-gradient(orangered, yellow);
+  background: -o-linear-gradient(orangered, yellow);
+  background: -moz-linear-gradient(orangered, yellow);
+  background: linear-gradient(orangered, yellow); }
+
+#box-2 {
+  -webkit-box-shadow: 1px 20px #000;
+  -moz-box-shadow: 1px 20px #000;
+  box-shadow: 1px 20px #000;
+  background: #036;
+  background: -webkit-linear-gradient(#123, #888);
+  background: -o-linear-gradient(#123, #888);
+  background: -moz-linear-gradient(#123, #888);
+  background: linear-gradient(#123, #888); }
+
+#box-3 {
+  -webkit-box-shadow: #333;
+  -moz-box-shadow: #333;
+  box-shadow: #333;
+  background: #036;
+  background: -webkit-linear-gradient(blue, green);
+  background: -o-linear-gradient(blue, green);
+  background: -moz-linear-gradient(blue, green);
+  background: linear-gradient(blue, green); }
+
+.alert, .success, .warning, .error {
+  border: solid 1px #333;
+  margin: 10px 0;
+  padding: 15px;
+  text-transform: uppercase;
+  -webkit-border-radius: 4px;
+  -moz-border-raduis: 4px;
+  border-radius: 4px; }
+
+.success {
+  background: green; }
+
+.warning {
+  background: yellow; }
+
+.error {
+  background: red; }
+
+/*# sourceMappingURL=app.css.map */

@@ -13,3 +13,6 @@ Creating a Clean & Scalable Stylesheet using Variables, Partials & Imports.
 
 Lesson-4
 Recycle code to save time using SASS Mixins.
+
+Lesson-5
+Take CSS properties from one selector and tack them onto another one using SASS Extends.
